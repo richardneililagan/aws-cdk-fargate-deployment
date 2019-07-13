@@ -4,6 +4,8 @@ AWS CDK - Simple AWS Fargate deployment
 Create an AWS Fargate deployment across 3 availability zones,
 and run a single service on it.
 
+[Detailed instructions here](https://docs.aws.amazon.com/cdk/latest/guide/ecs_example.html).
+
 ## What is this?
 
 The [AWS Cloud Development Kit](https://https://github.com/aws/aws-cdk) 
@@ -71,3 +73,7 @@ cdk deploy
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
+
+---
+
+> Github [@richardneililagan](https://github.com/richardneililagan)  ·  Twitter [@techlifemusic](https://twitter.com/techlifemusic)
