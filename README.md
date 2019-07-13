@@ -24,7 +24,9 @@ relationships betweek components.
    your choice, behind a public-facing load balancer
 
    a. Each container will have `512m` CPU
+
    b. Each container will have `2GB` allocated memory
+
    c. The service will run 6 container instances behind the load balancer.
 
 ## Usage
@@ -37,6 +39,10 @@ cdk --version   # :: check if correctly installed
 ```
 
 2. Clone this repository.
+
+```
+git clone https://github.com/richardneililagan/aws-cdk-fargate-deployment.git
+```
 
 3. Build and deploy the application stack.
 
