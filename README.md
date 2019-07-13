@@ -14,7 +14,7 @@ The [AWS Cloud Development Kit](https://https://github.com/aws/aws-cdk)
 Unlike [AWS CloudFormation](https://aws.amazon.com/cloudformation) which uses
 JSON or YAML, the AWS CDK uses programming languages, like Typescript, 
 Javascript, Python, C#, and Java, to describe infrastructure and
-relationships betweek components.
+relationships between components.
 
 ## What does this deployment do?
 
